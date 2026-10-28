@@ -1,0 +1,15 @@
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Infrastructure/bin/Debug/net10.0/TodoApp.Infrastructure.deps.json
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Infrastructure/bin/Debug/net10.0/TodoApp.Infrastructure.dll
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Infrastructure/bin/Debug/net10.0/TodoApp.Infrastructure.pdb
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Infrastructure/bin/Debug/net10.0/TodoApp.Core.dll
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Infrastructure/bin/Debug/net10.0/TodoApp.Core.pdb
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Infrastructure/obj/Debug/net10.0/TodoApp.Infrastructure.csproj.AssemblyReference.cache
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Infrastructure/obj/Debug/net10.0/TodoApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Infrastructure/obj/Debug/net10.0/TodoApp.Infrastructure.AssemblyInfoInputs.cache
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Infrastructure/obj/Debug/net10.0/TodoApp.Infrastructure.AssemblyInfo.cs
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Infrastructure/obj/Debug/net10.0/TodoApp.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Infrastructure/obj/Debug/net10.0/TodoApp..D6B2378B.Up2Date
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Infrastructure/obj/Debug/net10.0/TodoApp.Infrastructure.dll
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Infrastructure/obj/Debug/net10.0/refint/TodoApp.Infrastructure.dll
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Infrastructure/obj/Debug/net10.0/TodoApp.Infrastructure.pdb
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Infrastructure/obj/Debug/net10.0/ref/TodoApp.Infrastructure.dll
