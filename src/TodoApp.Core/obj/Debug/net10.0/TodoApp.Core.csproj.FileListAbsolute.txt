@@ -1,0 +1,11 @@
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Core/bin/Debug/net10.0/TodoApp.Core.deps.json
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Core/bin/Debug/net10.0/TodoApp.Core.dll
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Core/bin/Debug/net10.0/TodoApp.Core.pdb
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Core/obj/Debug/net10.0/TodoApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Core/obj/Debug/net10.0/TodoApp.Core.AssemblyInfoInputs.cache
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Core/obj/Debug/net10.0/TodoApp.Core.AssemblyInfo.cs
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Core/obj/Debug/net10.0/TodoApp.Core.csproj.CoreCompileInputs.cache
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Core/obj/Debug/net10.0/TodoApp.Core.dll
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Core/obj/Debug/net10.0/refint/TodoApp.Core.dll
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Core/obj/Debug/net10.0/TodoApp.Core.pdb
+/Users/sajo/Desktop/Konstrukcija softvera/Nedelja-02-Cist-kod/src/TodoApp.Core/obj/Debug/net10.0/ref/TodoApp.Core.dll
